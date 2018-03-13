@@ -1,0 +1,2 @@
+# Smart-Home
+In this project, we will use Bluetooth technology to control the Home Electronic Appliances through an Android Phone.  Bluetooth has a range of 10-15 meters, so that you can switch ON and OFF any electronic appliance within the range.  Here we have used 8051 microcontroller with a Bluetooth module, for wirelessly receive the data, sent from the Android Phone.  So that microcontroller can Turn ON and OFF the home appliances accordingly.
